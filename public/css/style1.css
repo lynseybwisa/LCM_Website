@@ -1,0 +1,70 @@
+
+.logo
+{
+margin-left: -10px;
+margin-top: 0px;
+}
+
+.header
+{
+position: absolute;
+z-index: 10;
+width: 100%;
+}
+ .heading{
+  margin-top: 140px;
+ }
+.navbar-nav
+{
+
+margin-left: 200px;
+margin-top: 0px;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  
+  text-align: center;
+  font-size: 20px;
+  text-decoration: none;
+  background: white;
+  color: black;
+  font-family: "open-sans";
+}
+
+
+.navbar-expand-lg .navbar-nav .nav-link{
+padding: 8px 15px;
+font-size: 18px;
+border-bottom: 3px solid #ffffff;
+}
+
+.navbar-expand-lg .navbar-nav .nav-link:hover{
+background: none;
+color: #e65100;
+border-radius: 0px;
+border-bottom: 3px solid #e65100;
+}
+
+.navbar-expand-lg .navbar-nav .nav-item.active{
+background: none;
+color: #e65100;
+border-radius: 0px;
+border-bottom: 3px solid #e65100;
+}
+
+.section {
+    display: block;
+    position: relative;
+    overflow: hidden;
+    padding: 120px 0;
+}
+.sub-menu
+{
+ float:left;  
+  width:25%; 
+  font-size: 20px;
+  margin: 20px;
+  line-height: 46pt;
+  height:280px; 
+
+}

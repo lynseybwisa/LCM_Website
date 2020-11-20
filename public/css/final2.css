@@ -1,0 +1,59 @@
+html, body {
+    height: 100%;
+	width:100%;
+	background:white;
+  font-size: 15px;
+}
+
+  #home{
+ 
+ 	display: table;
+ 	height: 100%;
+ 	width:60%;
+  margin-top: -670px;
+ 	
+
+ }
+ .heading{
+  margin-top: 140px;
+ }
+ .slide{ 
+	max-width: 900px;
+	padding-left: 300px;
+  margin-left: 550px;
+ padding-top: 10px;
+ padding-right:0px;
+
+ 
+  float: center;
+  transition: 0.5s;
+}
+
+  .landing-text{
+ 	display: table-cell;
+ 	text-align: center;
+ 	vertical-align: middle;
+ 	color: white;
+ 	font-weight: bold;
+ 	text-decoration-style: bold;
+ }
+ .landing.text h1 {
+ 	font-size:25px;
+ 	font-weight: 700;
+ }
+ 
+  footer{
+ 	width: 100%;
+ 	background-color: #23415C;
+ 	padding: 5% 5% 10% 5%;
+ 	color:#FFF;
+ }
+ .fa{
+ 	padding:15px;
+ 	color: #FFF;
+ 	font-size: 25px;
+ }
+.list{
+  font-size: 20px;
+  line-height: 46pt;
+}
